@@ -1,7 +1,7 @@
 # Awesome KAN
 
 ## Papers
-
+* [The Kolmogorov-Arnold representation theorem revisited](https://arxiv.org/abs/2007.15884)
 ## Videos
 * [Youtube: Kolmogorov Arnold Networks | tom davison](https://www.youtube.com/watch?v=P8uJL60JNpc)
 * [Youtube: Simply explained! KAN: Kolmogorov–Arnold Networks is interpretable! Mathematics and Physics | Bin Yiu](https://www.youtube.com/watch?v=q8qFYMycNKE)
