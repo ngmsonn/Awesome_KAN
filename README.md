@@ -1,1 +1,1 @@
-# Awesome_KAN
+# Awesome KAN
